@@ -1,0 +1,15 @@
+ul {
+  list-style: none;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  background-color: #f5f5f5;
+  width: 100%;
+  padding: 10px 20px;
+  border-radius: 8px;
+}
+
+li {
+  height: 40px;
+  margin-top: 20px;
+  border: 1px solid black;
+  border-radius: 8px;
+}
